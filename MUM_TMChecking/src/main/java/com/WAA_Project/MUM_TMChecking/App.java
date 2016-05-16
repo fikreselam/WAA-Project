@@ -1,0 +1,13 @@
+package com.WAA_Project.MUM_TMChecking;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
